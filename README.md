@@ -28,10 +28,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 
  
-- 
-<img src="" title="" alt="" width="40" height="40"/>&nbsp; 
-https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif
--
 </div>
 
 ### Stats : 
