@@ -31,9 +31,7 @@
 </div>
 
 ### Stats : 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreylo73&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisreylo73&theme=vue-dark&background=3E3D53)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreylo73&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisreylo73&theme=vue-dark&background=3E3D53)](https://git.io/streak-stats)
 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
