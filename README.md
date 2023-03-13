@@ -13,8 +13,6 @@
 - 🌱 I’m currently learning algorithims and data structures
 - 👯 I’m looking to collaborate on anything and everything regarding software development. 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=4360-Senior-Project&repo=Note-Ninja)](https://github.com/4360-Senior-Project/Note-Ninja)
-### Languages & Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -30,13 +28,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 
  
-<!--- 
+- 
 <img src="" title="" alt="" width="40" height="40"/>&nbsp; 
 https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif
---->
-  
-
-  
+-
 </div>
 
 ### Stats : 
