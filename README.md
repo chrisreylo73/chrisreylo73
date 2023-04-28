@@ -13,6 +13,12 @@
 - 🌱 I’m currently learning algorithims and data structures
 - 👯 I’m looking to collaborate on anything and everything regarding software development. 
 
+[NoteNinja](https://github.com/NoteNinja/NoteNinja) 
+- Lead Developer in a collaboration of 4 people. 
+- Note Ninja is the ultimate productivity tool for note-taking while browsing the web. This Chrome Extension streamlines the note-taking process and allows users to effortlessly create organized notes while conducting research. With Note Ninja, users can stay focused and productive without losing track of important information. 
+Utilized google chrome API calls. 
+- Developed using Javascript, HTML, and CSS.  
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -35,7 +41,7 @@
 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
-[NoteNinja](https://github.com/NoteNinja/NoteNinja) - Description
+
 
 <!--
 **chrisreylo73/chrisreylo73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
