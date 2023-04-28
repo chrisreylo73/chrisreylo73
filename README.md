@@ -35,6 +35,8 @@
 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
+[NoteNinja](https://github.com/NoteNinja/NoteNinja) - Description
+
 <!--
 **chrisreylo73/chrisreylo73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
