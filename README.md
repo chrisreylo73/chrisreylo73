@@ -7,6 +7,7 @@
   </a>
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisreylo73&theme=sunset-gradient&hide_border=true&border_radius=60&mode=weekly&card_width=200&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ### About Me :
 - 🔭 I’m currently working on sharpening my software development skills to better facilitate my growth as a developer.
