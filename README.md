@@ -1,11 +1,16 @@
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"/>
+<div id="header" align="left" ;>
+  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200" border-radius: "25px"/>
 </div>
-<div id="badges" align="left">
+<!-- <div id="badges" align="left">
   <a href="https://www.linkedin.com/feed/?trk=404_page">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200"/>
   </a>
-</div>
+  <a href="chrisreylo73@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div> -->
+
+<a href="<https://www.linkedin.com/in/chris-lopez-09b5b51ba/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisreylo73&theme=sunset-gradient&hide_border=true&border_radius=60&mode=weekly&card_width=200&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
@@ -34,12 +39,7 @@ Utilized google chrome API calls.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-
- 
 </div>
-
-### Stats : 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreylo73&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisreylo73&theme=vue-dark&background=3E3D53)](https://git.io/streak-stats)
 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
