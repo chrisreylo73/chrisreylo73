@@ -1,30 +1,15 @@
-<div id="header" align="left" ;>
-  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200" border-radius: "25px"/>
-</div>
-<!-- <div id="badges" align="left">
-  <a href="https://www.linkedin.com/feed/?trk=404_page">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200"/>
-  </a>
-  <a href="chrisreylo73@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div> -->
+<div id="Intro">
+    <div id="header" align="left" ;>
+      <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200" border-radius: "25px"/>
+    </div>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&pause=1000&color=F7F7F7&background=302A2E00&center=true&width=435&lines=Hey+I'm+Chris!;Check+out+some+of+my+projects+below!+" alt="Typing SVG" /></a>
+    
+</div> 
+<img src= "https://myreadme.vercel.app/api/embed/chrisreylo73?panels=userstatistics,toprepositories,toplanguages,commitgraph" />
 
-<a href="<https://www.linkedin.com/in/chris-lopez-09b5b51ba/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisreylo73&theme=sunset-gradient&hide_border=true&border_radius=60&mode=weekly&card_width=200&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
-### About Me :
-- 🔭 I’m currently working on sharpening my software development skills to better facilitate my growth as a developer.
-- 🌱 I’m currently learning algorithims and data structures
-- 👯 I’m looking to collaborate on anything and everything regarding software development. 
-
-[NoteNinja](https://github.com/NoteNinja/NoteNinja) 
-- Lead Developer in a collaboration of 4 people. 
-- Note Ninja is the ultimate productivity tool for note-taking while browsing the web. This Chrome Extension streamlines the note-taking process and allows users to effortlessly create organized notes while conducting research. With Note Ninja, users can stay focused and productive without losing track of important information. 
-Utilized google chrome API calls. 
-- Developed using Javascript, HTML, and CSS.  
-
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chrisreylo73&repo=school-Projects&width=2000)
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -41,7 +26,7 @@ Utilized google chrome API calls.
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 </div>
 
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+
 
 
 
