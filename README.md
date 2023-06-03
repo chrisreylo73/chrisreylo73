@@ -8,7 +8,7 @@
 <img src= "https://myreadme.vercel.app/api/embed/chrisreylo73?panels=userstatistics,toprepositories,toplanguages,commitgraph" />
 
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chrisreylo73&repo=school-Projects&width=2000)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chrisreylo73&repo=school-Projects&width=2000)(https://github.com/chrisreylo73/School-Projects)
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 <div>
