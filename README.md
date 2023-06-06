@@ -7,7 +7,7 @@
     - 🔭 I'm actively sharpening my framework knowledge and building personal projects.
     - 👯 I'm passionate about collaborating on software development and exploring new ideas.
     - 💬 Ask me about my passion project "Note Ninja"! 
-    - ⚡ Hobbies: chess, guitar, working out, drawing, CAD 3D Modeling, 3D Printing, and basketball.
+    - ⚡ Hobbies: chess, guitar, working out, drawing, CAD Modeling, 3D Printing, and basketball.
                 
  </div> 
 </div> 
