@@ -3,15 +3,17 @@
 <div id="header" align="left">
         <img align="left" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200" border-radius: "25px"/>
                 
-    
-    - 🔭 I’m currently working on sharpening my understanding of frameworks and bulding up more personal projects.
-    - 👯 I’m looking to collaborate on everything software development I really enjoy learning and exploring ideas. 
-    - ⚡ Fun fact: Some of my hobbies outside of software development include chess, guitar, working out, drawing, CAD 3D Modeling, 3D Printing, and basketball.
+    About Me
+    - 🔭 I'm actively sharpening my framework knowledge and building personal projects.
+    - 👯 I'm passionate about collaborating on software development and exploring new ideas.
+    - 💬 Ask me about my passion project "Note Ninja"! 
+    - ⚡ Hobbies: chess, guitar, working out, drawing, CAD 3D Modeling, 3D Printing, and basketball.
                 
  </div> 
 </div> 
+ 
 
----
+
 ## Stats
 <img src= "https://myreadme.vercel.app/api/embed/chrisreylo73?panels=userstatistics,toprepositories,toplanguages,commitgraph" />
 
@@ -182,5 +184,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - ⚡ Fun fact: I am a big hobbiest so 
 -->
-
-- 
