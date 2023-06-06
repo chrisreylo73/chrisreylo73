@@ -23,6 +23,16 @@
 <details>
 <summary> Note Ninja </summary>
     
+![icon128](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/cff8465f-2e94-4318-bc70-18ffc3bf56ac)
+- Introducing Note Ninja, the ultimate Chrome extension for seamless note-taking and organization. With Note Ninja, you can effortlessly save important information to Microsoft Word or Google Docs while browsing the web.
+    - Effortlessly save selected text from any webpage with a simple highlight.
+    - Automatically keep track of where you get your information, through our Sources section. 
+    - Capture and save images using the built-in Snip Feature, ensuring you never miss important visuals.
+    - Seamlessly write and manage your own notes with the convenient "User Text" Button.
+    - Experience enhanced flexibility by easily exporting and importing Note Ninja Microsoft Word Documents.
+- Developed Using JavaScript, CSS and HTML
+- [Video Demo](https://www.youtube.com/watch?v=Q4hQ7xK-kWw)
+- [Avalible on the Chrome Store](https://chrome.google.com/webstore/detail/note-ninja/nldmjficnkjkmlekekkaehkhgpkoakdh)
 </details>
 
 <details>
@@ -146,10 +156,6 @@
 </details>
 
 
-
-
----
-
 ## Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -164,6 +170,18 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+
+<!-- ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) -->
+
 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
