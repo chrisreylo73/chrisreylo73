@@ -30,10 +30,19 @@
     - Capture and save images using the built-in Snip Feature, ensuring you never miss important visuals.
     - Seamlessly write and manage your own notes with the convenient "User Text" Button.
     - Experience enhanced flexibility by easily exporting and importing Note Ninja Microsoft Word Documents.
-- Developed Using JavaScript, CSS and HTML
+- Developed Using JavaScript, CSS, and HTML
 - [Video Demo](https://www.youtube.com/watch?v=Q4hQ7xK-kWw)
 - [Avalible on the Chrome Store](https://chrome.google.com/webstore/detail/note-ninja/nldmjficnkjkmlekekkaehkhgpkoakdh)
 </details>
+
+<details>
+<summary> Code Sweep </summary>
+    
+### Description
+- VS-Code extension that allows users to quickly DELETE comments,  empty lines,  print statements,  and console logs of a selected area or entire file.
+- [Link to Repository](https://github.com/chrisreylo73/Code-Sweep-VSC-EXT)
+</details>
+
 
 <details>
 <summary> Algorithms & Analysis </summary>
