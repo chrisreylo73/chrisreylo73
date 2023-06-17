@@ -43,6 +43,13 @@
 - [Link to Repository](https://github.com/chrisreylo73/Code-Sweep-VSC-EXT)
 </details>
 
+<details>
+<summary> Gimme Output </summary>
+    
+### Description
+- VS-Code extension that allows users to quickly wrap variables in print statements.
+- [Link to Repository](https://github.com/chrisreylo73/Gimme-Output-VSC-EXT)
+</details>
 
 <details>
 <summary> Algorithms & Analysis </summary>
