@@ -19,8 +19,9 @@
 
 ## Projects
 
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chrisreylo73&repo=school-Projects&width=2000)](https://github.com/chrisreylo73/School-Projects) -->
-<details>
+    Personal Projects 
+
+<details> 
 <summary> Note Ninja </summary>
     
 ![icon128](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/cff8465f-2e94-4318-bc70-18ffc3bf56ac)
@@ -33,7 +34,7 @@
 - Developed Using JavaScript, CSS, and HTML
 - [Video Demo](https://www.youtube.com/watch?v=Q4hQ7xK-kWw)
 - [Avalible on the Chrome Store](https://chrome.google.com/webstore/detail/note-ninja/nldmjficnkjkmlekekkaehkhgpkoakdh)
-</details>
+</details> 
 
 <details>
 <summary> Code Sweep </summary>
@@ -50,6 +51,8 @@
 - VS-Code extension that allows users to quickly wrap variables in print statements.
 - [Link to Repository](https://github.com/chrisreylo73/Gimme-Output-VSC-EXT)
 </details>
+
+    School Projects 
 
 <details>
 <summary> Algorithms & Analysis </summary>
