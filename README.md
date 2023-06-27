@@ -39,6 +39,7 @@
 <details>
 <summary> Code Sweep </summary>
     
+![CSLOGO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/8711cb5a-9cfd-49c4-856b-ca3feb28fcdd)
 ### Description
 - VS-Code extension that allows users to quickly DELETE comments,  empty lines,  print statements,  and console logs of a selected area or entire file.
 - [Link to Repository](https://github.com/chrisreylo73/Code-Sweep-VSC-EXT)
