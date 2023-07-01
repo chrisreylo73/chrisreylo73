@@ -40,9 +40,8 @@
 <summary> Task List </summary>
     
 ### Description
-    Full-Stack web app that allows you to perform CRUD operations to keep track of your daily tasks.
-
-[Link to Repository](https://github.com/chrisreylo73/Code-Sweep-VSC-EXT)
+- Full-Stack web app that allows you to perform CRUD operations to keep track of your daily tasks.
+- [Link to Repository](https://github.com/chrisreylo73/Code-Sweep-VSC-EXT)
 </details>
 
 
