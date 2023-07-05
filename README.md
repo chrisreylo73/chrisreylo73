@@ -63,7 +63,7 @@
 ![Untitled-removebg-preview](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/4135591e-9282-48b9-82ec-a4ec8e595dba)
 
 ### Description
-- Chrome extension that allows users to quickly copy hex color values from any webpage.
+- Chrome extension that allows users to quickly extract and copy hex color values from any webpage.
 - [Link to Repository](https://github.com/chrisreylo73/Gimme-Color)
 </details>
 
