@@ -58,6 +58,17 @@
 </details>
 
 <details>
+<summary> Gimme Color </summary>
+
+![Untitled-removebg-preview](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/4135591e-9282-48b9-82ec-a4ec8e595dba)
+
+### Description
+- Chrome extension that allows users to quickly copy hex color values from any webpage.
+- [Link to Repository](https://github.com/chrisreylo73/Gimme-Color)
+</details>
+
+
+<details>
 <summary> Gimme Output </summary>
     
 ![GOLOGO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/5f79ae13-f01a-40d2-82d0-94fd2153dffa)
