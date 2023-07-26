@@ -36,6 +36,23 @@
 - [Avalible on the Chrome Store](https://chrome.google.com/webstore/detail/note-ninja/nldmjficnkjkmlekekkaehkhgpkoakdh)
 </details> 
 
+
+<details> 
+<summary> 1-Player </summary>
+
+### Description
+
+
+- This Spotify and YouTube Combined Music App is a powerful music application that fetches playlists automatically from specified Spotify and YouTube accounts. It offers music playback features for both platforms, providing users with a seamless and integrated music listening experience in a single package.
+
+
+![image](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/22343128-5fc0-4e65-8302-dc23fc72db0c)
+
+
+
+
+</details> 
+
 <details>
 <summary> Task List </summary>
 
