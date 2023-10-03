@@ -23,6 +23,8 @@
 
 <details> 
 <summary> Note Ninja </summary>
+
+![Farmers Market Finder Demo](demo/demo.gif)
     
 ![icon128](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/cff8465f-2e94-4318-bc70-18ffc3bf56ac)
 - Introducing Note Ninja, the ultimate Chrome extension for seamless note-taking and organization. With Note Ninja, you can effortlessly save important information to Microsoft Word or Google Docs while browsing the web.
