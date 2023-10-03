@@ -24,18 +24,46 @@
 <details> 
 <summary> Note Ninja </summary>
 
-![Farmers Market Finder Demo](demo/demo.gif)
-    
-![icon128](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/cff8465f-2e94-4318-bc70-18ffc3bf56ac)
-- Introducing Note Ninja, the ultimate Chrome extension for seamless note-taking and organization. With Note Ninja, you can effortlessly save important information to Microsoft Word or Google Docs while browsing the web.
-    - Effortlessly save selected text from any webpage with a simple highlight.
-    - Automatically keep track of where you get your information, through our Sources section. 
-    - Capture and save images using the built-in Snip Feature, ensuring you never miss important visuals.
-    - Seamlessly write and manage your own notes with the convenient "User Text" Button.
-    - Experience enhanced flexibility by easily exporting and importing Note Ninja Microsoft Word Documents.
+
+
+<div id="header" align="left">
+        <img align="left" src="https://github.com/chrisreylo73/chrisreylo73/assets/72224622/cff8465f-2e94-4318-bc70-18ffc3bf56ac" width="100" border-radius: "25px"/>
+
+    Introducing Note Ninja,
+    the ultimate Chrome extension for seamless note-taking and organization. 
+    With Note Ninja, you can effortlessly save important information to Microsoft Word while browsing the web.
+</div> 
+
 - Developed Using JavaScript, CSS, and HTML
 - [Video Demo](https://www.youtube.com/watch?v=Q4hQ7xK-kWw)
 - [Avalible on the Chrome Store](https://chrome.google.com/webstore/detail/note-ninja/nldmjficnkjkmlekekkaehkhgpkoakdh)
+
+---
+
+`Create Document headers and start taking notes quickly!`
+
+![NND_SETUP](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/a5bc3040-dd05-4d90-95f0-0dc73e360e76)
+
+`Capture and save images using the built-in Snip Feature, ensuring you never miss important visuals.`
+
+![NND_SNIP2](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/333d0c1e-1009-4862-887a-ef13ae1bc578)
+
+<!--![NND_SNIP1](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/16559480-9392-47f9-a8a1-46efb730f207) -->
+
+`Effortlessly save selected text from any webpage with a simple highlight.`
+
+![NND_TEXT4](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/dc3f7de4-6feb-4d94-9c82-0b418ff5022e)
+<!-- ![NND_TEXT3](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/8aa5a971-901a-4f51-b764-589ef8aaa54f) -->
+<!-- ![NND_TEXT2](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/782bdcc8-d66c-4e17-a340-e115361c1294) -->
+<!-- ![NND_TEXT1](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/543ce436-36f9-400c-86b9-afbc49f91be2) -->
+
+`Export to see your notes captured in a MS WORD document with automatic source mapping.`
+
+<!-- ![NND_EX](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/c97f44ef-b472-4435-a893-cef0752884f4)-->
+![NND_FILE](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/4ab3e87b-0ba8-4bfd-b3a4-14c960d39cc1)
+
+
+
 </details> 
 
 
