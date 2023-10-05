@@ -56,8 +56,6 @@
 <pre>
     
 #   `DESCRIPTION`
-
-
 `   This Spotify and YouTube Combined Music App is a powerful music application`
 `   that fetches playlists automatically from specified Spotify and YouTube accounts.`
 `   It offers music playback features for both platforms,providing users with a seamless`
@@ -83,13 +81,16 @@
 
 <details>
 <summary> Task List </summary>
-
-![image](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/16b898c1-f96e-4ec3-835f-43ef97b8a14b)
-### Description
-
-
-- Full-Stack web app that allows you to perform CRUD operations to keep track of your daily tasks.
+<pre>
+    
+#   `DESCRIPTION`
+`   Full-Stack web app that allows you to perform CRUD operations to keep track of your daily tasks.`
+#   `DEMO`
+![TASK LIST DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/ba4e7e7f-67ed-4497-8ce0-b3d0594d9445)
+#    `LINKS`
 - [Link to Repository](https://github.com/chrisreylo73/Code-Sweep-VSC-EXT)
+
+</pre>
 </details>
 
 
