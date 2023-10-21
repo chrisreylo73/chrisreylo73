@@ -21,6 +21,18 @@
 
     Personal Projects 
 
+<!-- 
+<details> 
+<summary> BlackJack </summary>
+<pre>
+#   `DESCRIPTION`
+#   `DEMO`
+#   `TECHNOLOGIES`
+#   `LINKS`
+</pre>
+</details>  
+-->
+
 <details> 
 <summary> Note Ninja </summary>
 <pre>
@@ -47,7 +59,6 @@
 
 </pre>
 </details> 
-
 
 
 
@@ -88,11 +99,30 @@
 #   `DEMO`
 ![TASK LIST DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/ba4e7e7f-67ed-4497-8ce0-b3d0594d9445)
 #    `LINKS`
-- [Link to Repository](https://github.com/chrisreylo73/Code-Sweep-VSC-EXT)
+- [Link to Repository](https://github.com/chrisreylo73/TaskList)
 
 </pre>
 </details>
 
+<details> 
+<summary> BlackJack </summary>
+<pre>
+
+#   `DESCRIPTION`
+`   Simple blackjack game in Java`
+
+#   `DEMO`
+![BLACKJACK_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/41660bea-a381-4c24-a796-ee6361b8523a)
+
+#   `TECHNOLOGIES`
+- Java
+- Swing
+
+#   `LINKS`
+- [Link to Repository](https://github.com/chrisreylo73/Black-Jack)
+
+</pre>
+</details> 
 
 <details>
 <summary> Code Sweep </summary>
