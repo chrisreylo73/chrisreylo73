@@ -33,6 +33,16 @@
 </details>  
 -->
 
+
+
+
+
+
+
+
+
+
+
 <details> 
 <summary> Note Ninja </summary>
 <pre>
@@ -62,6 +72,14 @@
 
 
 
+
+
+
+
+
+
+
+
 <details> 
 <summary> 1-Player </summary>
 <pre>
@@ -71,8 +89,6 @@
 `   that fetches playlists automatically from specified Spotify and YouTube accounts.`
 `   It offers music playback features for both platforms,providing users with a seamless`
 `   and integrated music listening experience in a single package.`
-
-
 
 #   `DEMO`
 
@@ -90,6 +106,16 @@
 </pre>
 </details> 
 
+
+
+
+
+
+
+
+
+
+
 <details>
 <summary> Task List </summary>
 <pre>
@@ -104,25 +130,45 @@
 </pre>
 </details>
 
+
+
+
+
+
+
+
+
+
+
 <details> 
 <summary> BlackJack </summary>
 <pre>
 
 #   `DESCRIPTION`
-`   Simple blackjack game in Java`
+`   Simple blackjack game in Java with unit testing`
 
 #   `DEMO`
 ![BLACKJACK_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/41660bea-a381-4c24-a796-ee6361b8523a)
 
 #   `TECHNOLOGIES`
 - Java
-- Swing
+- Swing (GUI)
+- Junit (tests)
 
 #   `LINKS`
 - [Link to Repository](https://github.com/chrisreylo73/Black-Jack)
 
 </pre>
 </details> 
+
+
+
+
+
+
+
+
+
 
 <details>
 <summary> Code Sweep </summary>
@@ -144,6 +190,15 @@
 </details>
 
 
+
+
+
+
+
+
+
+
+
 <details>
 <summary> Gimme Output </summary>
     
@@ -154,6 +209,16 @@
 - VS-Code extension that allows users to quickly wrap variables in print statements.
 - [Link to Repository](https://github.com/chrisreylo73/Gimme-Output-VSC-EXT)
 </details>
+
+
+
+
+
+
+
+
+
+
 
     School Projects 
 
