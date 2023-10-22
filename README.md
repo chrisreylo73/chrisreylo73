@@ -23,11 +23,11 @@
 
 <!-- 
 <details> 
-<summary> BlackJack </summary>
+<summary>  </summary>
 <pre>
 #   `DESCRIPTION`
 #   `DEMO`
-#   `TECHNOLOGIES`
+#   `TOOLS`
 #   `LINKS`
 </pre>
 </details>  
@@ -62,6 +62,10 @@
 ![NND_TEXT4](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/dc3f7de4-6feb-4d94-9c82-0b418ff5022e)
 - Export to see your notes captured in a MS WORD document with automatic source mapping.
 ![NN_FILEDEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/196eae9b-8576-4ba5-988d-b9b5c0b476b4)
+
+#   `TOOLS`
+- JavaScript
+- HTML & CSS
 
 # LINKS 
 - [Video Demo](https://www.youtube.com/watch?v=Q4hQ7xK-kWw)
@@ -100,6 +104,12 @@
 
 ![ONEPLAYERDEMO_Y](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/cff67f78-b922-4c54-b801-c5988362bdc2)
 
+#   `TOOLS`
+- React
+- JavaScript
+- HTML & CSS
+- Spotify and Youtube APIs
+
 #   `LINKS`
 - [Link to Repository](https://github.com/chrisreylo73/ONE-PLAYER)
 
@@ -124,6 +134,13 @@
 `   Full-Stack web app that allows you to perform CRUD operations to keep track of your daily tasks.`
 #   `DEMO`
 ![TASK LIST DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/ba4e7e7f-67ed-4497-8ce0-b3d0594d9445)
+
+#   `TOOLS`
+- React
+- Javascript
+- HTML & CSS
+- Python
+
 #    `LINKS`
 - [Link to Repository](https://github.com/chrisreylo73/TaskList)
 
@@ -150,7 +167,7 @@
 #   `DEMO`
 ![BLACKJACK_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/41660bea-a381-4c24-a796-ee6361b8523a)
 
-#   `TECHNOLOGIES`
+#   `TOOLS`
 - Java
 - Maven (Build Tool)
 - Swing (GUI)
@@ -173,21 +190,55 @@
 
 <details>
 <summary> Code Sweep </summary>
+<pre>
     
 ![CSLOGO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/8711cb5a-9cfd-49c4-856b-ca3feb28fcdd)
-### Description
-- VS-Code extension that allows users to quickly DELETE comments,  empty lines,  print statements,  and console logs of a selected area or entire file.
+
+#   `DESCRIPTION`
+`     VS-Code extension that allows users to quickly DELETE comments,  empty lines,  print statements,`
+`     and console logs of a selected area or entire file.`
+
+#   `DEMO`
+
+#   `TOOLS`
+- TypeScript
+
+#   `LINKS`
 - [Link to Repository](https://github.com/chrisreylo73/Code-Sweep-VSC-EXT)
+</pre>
+
+### Description
+
 </details>
+
+
+
+
+
+
+
+
+
+
 
 <details>
 <summary> Gimme Color </summary>
-
+<pre>
+    
 ![Untitled-removebg-preview](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/4135591e-9282-48b9-82ec-a4ec8e595dba)
 
-### Description
-- Chrome extension that allows users to quickly extract and copy hex color values from any webpage.
+#   `DESCRIPTION`
+`     Chrome extension that allows users to quickly extract and copy hex color values from any webpage.`
+
+#   `DEMO`
+
+#   `TOOLS`
+- TypeScript
+
+#   `LINKS`
 - [Link to Repository](https://github.com/chrisreylo73/Gimme-Color)
+
+</pre>
 </details>
 
 
@@ -202,13 +253,27 @@
 
 <details>
 <summary> Gimme Output </summary>
+<pre>
     
 ![GOLOGO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/5f79ae13-f01a-40d2-82d0-94fd2153dffa)
 
-    
-### Description
-- VS-Code extension that allows users to quickly wrap variables in print statements.
+#   `DESCRIPTION`
+
+`     VS-Code extension that allows users to quickly wrap variables in print statements.`
+
+#   `DEMO`
+- Using hotkey ctrl + 1
+![GIMME_OUPTUT_1_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/a0745def-bfa2-4ba1-889c-710b60e586c6)
+- Using hotkey ctrl + 3
+![GIMME_OUPTUT_2_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/e2b3802f-82da-4fcd-82a2-b2e23ee30022)
+
+#   `TOOLS`
+- TypeScript
+
+#   `LINKS`
 - [Link to Repository](https://github.com/chrisreylo73/Gimme-Output-VSC-EXT)
+
+</pre>
 </details>
 
 
