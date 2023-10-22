@@ -199,6 +199,12 @@
 `     and console logs of a selected area or entire file.`
 
 #   `DEMO`
+- Delete empty lines
+![CODE_SWEEP_1_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/3d9229ce-ba00-407e-ac55-fa4188c51500)
+- Delete comments
+![CODE_SWEEP_2_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/44046664-0204-48f9-99d0-252ec7cf893c)
+- Delete print statements
+![CODE_SWEEP_3_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/403b3a31-967d-46a0-8009-1256e3ad0896)
 
 #   `TOOLS`
 - TypeScript
