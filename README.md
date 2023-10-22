@@ -152,6 +152,7 @@
 
 #   `TECHNOLOGIES`
 - Java
+- Maven (Build Tool)
 - Swing (GUI)
 - Junit (tests)
 
