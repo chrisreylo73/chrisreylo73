@@ -126,7 +126,8 @@
 #   `DESCRIPTION`
 `   Full-Stack web app that allows you to perform CRUD operations to keep track of your daily tasks.`
 #   `DEMO`
-![TASK LIST DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/ba4e7e7f-67ed-4497-8ce0-b3d0594d9445)
+<img src="https://github.com/chrisreylo73/chrisreylo73/assets/72224622/ba4e7e7f-67ed-4497-8ce0-b3d0594d9445" width="400" height="600" alt="CODE_SWEEP_1_DEMO">
+
 #   `TOOLS`
 - React
 - Javascript
@@ -187,11 +188,14 @@
 `     and console logs of a selected area or entire file.`
 #   `DEMO`
 - Delete empty lines
-![CODE_SWEEP_1_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/3d9229ce-ba00-407e-ac55-fa4188c51500)
+<img src="https://github.com/chrisreylo73/chrisreylo73/assets/72224622/3d9229ce-ba00-407e-ac55-fa4188c51500" width="600" height="600" alt="CODE_SWEEP_1_DEMO">
+
 - Delete comments
-![CODE_SWEEP_2_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/44046664-0204-48f9-99d0-252ec7cf893c)
+<img src="https://github.com/chrisreylo73/chrisreylo73/assets/72224622/44046664-0204-48f9-99d0-252ec7cf893c" width="600" height="600" alt="CODE_SWEEP_1_DEMO">
+
 - Delete print statements
-![CODE_SWEEP_3_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/403b3a31-967d-46a0-8009-1256e3ad0896)
+<img src="https://github.com/chrisreylo73/chrisreylo73/assets/72224622/403b3a31-967d-46a0-8009-1256e3ad0896" width="600" height="600" alt="CODE_SWEEP_1_DEMO">
+
 #   `TOOLS`
 - TypeScript
 #   `LINKS`
@@ -202,7 +206,12 @@
 
 </details>
 
-
+<!-- ![CODE_SWEEP_1_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/3d9229ce-ba00-407e-ac55-fa4188c51500)' 
+![TASK LIST DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/ba4e7e7f-67ed-4497-8ce0-b3d0594d9445)
+![CODE_SWEEP_2_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/44046664-0204-48f9-99d0-252ec7cf893c)
+![CODE_SWEEP_3_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/403b3a31-967d-46a0-8009-1256e3ad0896)
+![GIMMIE_COLOR_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/a006063d-481a-4fb5-a54c-f1c736e6f97e)
+-->
 
 
 
@@ -221,7 +230,8 @@
 #   `DESCRIPTION`
 `     Chrome extension that allows users to quickly extract and copy hex color values from any webpage.`
 #   `DEMO`
-![GIMMIE_COLOR_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/a006063d-481a-4fb5-a54c-f1c736e6f97e)
+<img src="https://github.com/chrisreylo73/chrisreylo73/assets/72224622/a006063d-481a-4fb5-a54c-f1c736e6f97e" width="600" height="450" alt="CODE_SWEEP_1_DEMO">
+
 #   `TOOLS`
 - JavaScript
 - HTML & CSS
