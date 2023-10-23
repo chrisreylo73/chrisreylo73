@@ -93,23 +93,16 @@
 `   that fetches playlists automatically from specified Spotify and YouTube accounts.`
 `   It offers music playback features for both platforms,providing users with a seamless`
 `   and integrated music listening experience in a single package.`
-
 #   `DEMO`
-
 ### SPOTIFY
-
 ![ONEPLAYERDEMO_L](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/0b0e661d-a57c-4eeb-9d1a-8839e1258ce4)
-
 ### YOUTUBE
-
 ![ONEPLAYERDEMO_Y](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/cff67f78-b922-4c54-b801-c5988362bdc2)
-
 #   `TOOLS`
 - React
 - JavaScript
 - HTML & CSS
 - Spotify and Youtube APIs
-
 #   `LINKS`
 - [Link to Repository](https://github.com/chrisreylo73/ONE-PLAYER)
 
@@ -134,13 +127,11 @@
 `   Full-Stack web app that allows you to perform CRUD operations to keep track of your daily tasks.`
 #   `DEMO`
 ![TASK LIST DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/ba4e7e7f-67ed-4497-8ce0-b3d0594d9445)
-
 #   `TOOLS`
 - React
 - Javascript
 - HTML & CSS
 - Python
-
 #    `LINKS`
 - [Link to Repository](https://github.com/chrisreylo73/TaskList)
 
@@ -163,16 +154,13 @@
 
 #   `DESCRIPTION`
 `   Simple blackjack game in Java with unit testing`
-
 #   `DEMO`
 ![BLACKJACK_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/41660bea-a381-4c24-a796-ee6361b8523a)
-
 #   `TOOLS`
 - Java
 - Maven (Build Tool)
 - Swing (GUI)
 - Junit (tests)
-
 #   `LINKS`
 - [Link to Repository](https://github.com/chrisreylo73/Black-Jack)
 
@@ -197,7 +185,6 @@
 #   `DESCRIPTION`
 `     VS-Code extension that allows users to quickly DELETE comments,  empty lines,  print statements,`
 `     and console logs of a selected area or entire file.`
-
 #   `DEMO`
 - Delete empty lines
 ![CODE_SWEEP_1_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/3d9229ce-ba00-407e-ac55-fa4188c51500)
@@ -205,10 +192,8 @@
 ![CODE_SWEEP_2_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/44046664-0204-48f9-99d0-252ec7cf893c)
 - Delete print statements
 ![CODE_SWEEP_3_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/403b3a31-967d-46a0-8009-1256e3ad0896)
-
 #   `TOOLS`
 - TypeScript
-
 #   `LINKS`
 - [Link to Repository](https://github.com/chrisreylo73/Code-Sweep-VSC-EXT)
 </pre>
@@ -235,11 +220,11 @@
 
 #   `DESCRIPTION`
 `     Chrome extension that allows users to quickly extract and copy hex color values from any webpage.`
-
 #   `DEMO`
 ![GIMMIE_COLOR_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/a006063d-481a-4fb5-a54c-f1c736e6f97e)
 #   `TOOLS`
-- TypeScript
+- JavaScript
+- HTML & CSS
 #   `LINKS`
 - [Link to Repository](https://github.com/chrisreylo73/Gimme-Color)
 
