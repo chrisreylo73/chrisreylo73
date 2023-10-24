@@ -171,6 +171,30 @@
 
 
 
+<details> 
+<summary> QR Code Generator </summary>
+<pre>
+
+#   `DESCRIPTION`
+`   Simple QR-Code generator in java with GUI`
+
+#   `DEMO`
+
+#   `TOOLS`
+- Java
+- Maven (Build Tool)
+- Swing (GUI)
+
+#   `LINKS`
+- [Link to Repository](https://github.com/chrisreylo73/QR-CODE-GENERATOR)
+    
+</pre>
+</details>  
+
+
+
+
+
 
 
 
