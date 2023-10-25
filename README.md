@@ -171,6 +171,36 @@
 
 
 
+
+
+
+
+
+
+<details> 
+<summary> YOU MP3 </summary>
+<pre>
+    
+#   `DESCRIPTION`
+`   Takes in a youtube link and creates a mp3 file from youtube video.`
+#   `DEMO`
+
+#   `TOOLS`
+- Python
+
+#   `LINKS`
+- [Link to Repository](https://github.com/chrisreylo73/QR-CODE-GENERATOR)
+</pre>
+</details>  
+
+
+
+
+
+
+
+
+
 <details> 
 <summary> QR Code Generator </summary>
 <pre>
