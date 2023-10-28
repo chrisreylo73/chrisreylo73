@@ -134,7 +134,7 @@
 - HTML & CSS
 - Python
 #    `LINKS`
-- [Link to Repository](https://github.com/chrisreylo73/TaskList)
+
 
 </pre>
 </details>
@@ -143,6 +143,29 @@
 
 
 
+<details> 
+<summary> Movie Teir List  </summary>
+<pre>
+    
+#   `DESCRIPTION`
+- Fullstack Movie teir list webapp with object relational mapping, routing, and CRUD operations.
+    
+<!-- #   `DEMO` -->
+    
+#   `TOOLS`
+
+- TypeScript
+- React
+- Remix
+- Prisma
+- SQLite
+
+#   `LINKS`
+- [Link to Repository](https://github.com/chrisreylo73/Movie-Tier-List)
+
+
+</pre>
+</details>  
 
 
 
@@ -184,12 +207,13 @@
 #   `DESCRIPTION`
 `   Takes in a youtube link and creates a mp3 file from youtube video.`
 #   `DEMO`
+![image](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/58d4f247-b825-4761-baab-df6feb9a36d1)
 
 #   `TOOLS`
 - Python
 
 #   `LINKS`
-- [Link to Repository](https://github.com/chrisreylo73/QR-CODE-GENERATOR)
+- [Link to Repository](https://github.com/chrisreylo73/YOU-MP3)
 </pre>
 </details>  
 
