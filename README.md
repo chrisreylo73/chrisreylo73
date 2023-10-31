@@ -159,7 +159,7 @@ for administrators to create, read, update, and delete employee records.
     
 #   `DESCRIPTION`
 `
-Tasklst is a feature-rich full-stack application designed to help users effectively manage their daily tasks.
+Tasklist is a feature-rich full-stack application designed to help users effectively manage their daily tasks.
 Built using a modern technology stack that includes React, JavaScript, HTML, CSS, Python, Flask, and SQLAlchemy,
 Tasklist provides a user-friendly and customizable platform for organizing and tracking tasks,
 whether for personal or professional use.
@@ -174,6 +174,7 @@ whether for personal or professional use.
 - HTML & CSS
 - Python
 #    `LINKS`
+- [Link to Repository](https://github.com/chrisreylo73/TASKLIST)
 
 
 </pre>
