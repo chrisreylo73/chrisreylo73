@@ -27,7 +27,7 @@
 <pre>
 #   `DESCRIPTION`
 #   `DEMO`
-#   `TOOLS`
+#   `TECH STACK`
 #   `LINKS`
 </pre>
 </details>  
@@ -51,8 +51,10 @@
     </div>
     
 #   `DESCRIPTION`
-`   Introducing Note Ninja, the ultimate Chrome extension for quick and seamless note-taking.`
-`   Easily save important web information to Microsoft Word as you browse.`
+`
+Introducing Note Ninja, the ultimate Chrome extension for quick and seamless note-taking.
+Easily save important web information to Microsoft Word as you browse.
+`
 #  `FEATURES`
 -   `Create Document headers and start taking notes quickly!`
 ![NND_SETUP](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/a5bc3040-dd05-4d90-95f0-0dc73e360e76)
@@ -63,7 +65,7 @@
 - Export to see your notes captured in a MS WORD document with automatic source mapping.
 ![NN_FILEDEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/196eae9b-8576-4ba5-988d-b9b5c0b476b4)
 
-#   `TOOLS`
+#   `TECH STACK`
 - JavaScript
 - HTML & CSS
 
@@ -89,20 +91,23 @@
 <pre>
     
 #   `DESCRIPTION`
-`   This Spotify and YouTube Combined Music App is a powerful music application`
-`   that fetches playlists automatically from specified Spotify and YouTube accounts.`
-`   It offers music playback features for both platforms,providing users with a seamless`
-`   and integrated music listening experience in a single package.`
+`
+This Spotify and YouTube Combined Music App is a powerful music application
+that fetches playlists automatically from specified Spotify and YouTube accounts.
+It offers music playback features for both platforms,providing users with a seamless
+and integrated music listening experience in a single package.
+`
 #   `DEMO`
 ### SPOTIFY
 ![ONEPLAYERDEMO_L](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/0b0e661d-a57c-4eeb-9d1a-8839e1258ce4)
 ### YOUTUBE
 ![ONEPLAYERDEMO_Y](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/cff67f78-b922-4c54-b801-c5988362bdc2)
-#   `TOOLS`
+#   `TECH STACK`
 - React
 - JavaScript
 - HTML & CSS
-- Spotify and Youtube APIs
+- Spotify and YouTube APIs
+- Node.js
 #   `LINKS`
 - [Link to Repository](https://github.com/chrisreylo73/ONE-PLAYER)
 
@@ -117,6 +122,35 @@
 
 
 
+<details> 
+<summary>Employee Management System</summary>
+<pre>
+    
+#   `DESCRIPTION`
+`
+The Employee Management System is a comprehensive full-stack application built to
+streamline and simplify the process of managing employee information within an organization.
+This system leverages a variety of technologies and tools to provide a user-friendly interface
+for administrators to create, read, update, and delete employee records.
+`
+#   `DEMO`
+
+#   `TECH STACK`
+- Java
+- Maven (Build Tool)
+- SpiringBoot
+- PostgreSQL
+- javascript
+- React
+#   `LINKS`
+    
+- [Link to Repository]( https://github.com/chrisreylo73/EMPLOYEE-MANAGEMENT-SYSTEM)
+</pre>
+</details>  
+
+
+
+
 
 
 <details>
@@ -124,11 +158,17 @@
 <pre>
     
 #   `DESCRIPTION`
-`   Full-Stack web app that allows you to perform CRUD operations to keep track of your daily tasks.`
+`
+Tasklst is a feature-rich full-stack application designed to help users effectively manage their daily tasks.
+Built using a modern technology stack that includes React, JavaScript, HTML, CSS, Python, Flask, and SQLAlchemy,
+Tasklist provides a user-friendly and customizable platform for organizing and tracking tasks,
+whether for personal or professional use.
+`
+
 #   `DEMO`
 <img src="https://github.com/chrisreylo73/chrisreylo73/assets/72224622/ba4e7e7f-67ed-4497-8ce0-b3d0594d9445" width="400" height="600" alt="CODE_SWEEP_1_DEMO">
 
-#   `TOOLS`
+#   `TECH STACK`
 - React
 - Javascript
 - HTML & CSS
@@ -148,11 +188,17 @@
 <pre>
     
 #   `DESCRIPTION`
-- Fullstack Movie teir list webapp with object relational mapping, routing, and CRUD operations.
+`
+The Movie Ranking List Application is a full-stack web-based platform designed to
+empower users to create and maintain personalized movie lists, while also providing
+the capability to rank and share their favorite movies with others.
+Built using cutting-edge technologies, including SQLite, Prisma, React, and Remix,
+this application offers a seamless and engaging user experience for movie enthusiasts.
+`
     
 <!-- #   `DEMO` -->
     
-#   `TOOLS`
+#   `TECH STACK`
 
 - TypeScript
 - React
@@ -177,10 +223,12 @@
 <pre>
 
 #   `DESCRIPTION`
-`   Simple blackjack game in Java with unit testing`
+`
+The Java Blackjack Game is a classic card game brought to life in a modern digital format. Developed using Java, Maven for build management, Swing for the graphical user interface (GUI), and JUnit for testing, this project provides an interactive and entertaining experience for players looking to enjoy the timeless card game of Blackjack.
+`
 #   `DEMO`
 ![BLACKJACK_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/41660bea-a381-4c24-a796-ee6361b8523a)
-#   `TOOLS`
+#   `TECH STACK`
 - Java
 - Maven (Build Tool)
 - Swing (GUI)
@@ -205,12 +253,15 @@
 <pre>
     
 #   `DESCRIPTION`
-`   Takes in a youtube link and creates a mp3 file from youtube video.`
+`
+You-MP3 is a user-friendly Python application that simplifies the process of converting YouTube videos to MP3 audio files. With a clean and intuitive interface powered by the tkinter library, You-MP3 provides a straightforward way for users to extract audio from their favorite YouTube content and save it in MP3 format.
+`
 #   `DEMO`
 ![image](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/58d4f247-b825-4761-baab-df6feb9a36d1)
 
-#   `TOOLS`
+#   `TECH STACK`
 - Python
+- tkinter
 
 #   `LINKS`
 - [Link to Repository](https://github.com/chrisreylo73/YOU-MP3)
@@ -230,12 +281,13 @@
 <pre>
 
 #   `DESCRIPTION`
-`   Simple QR-Code generator in java with GUI`
-
+`
+The Java QR Code Generator is a versatile and user-friendly application that simplifies the creation of QR codes. Developed using Java, Maven for build management, and the Swing graphical user interface (GUI) library, this application allows users to generate QR codes for various purposes with ease and efficiency.
+`
 #   `DEMO`
 ![QRCG_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/12ba5d01-76da-4e21-8cab-a92af1cc11de)
 
-#   `TOOLS`
+#   `TECH STACK`
 - Java
 - Maven (Build Tool)
 - Swing (GUI)
@@ -263,8 +315,7 @@
 ![CSLOGO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/8711cb5a-9cfd-49c4-856b-ca3feb28fcdd)
 
 #   `DESCRIPTION`
-`     VS-Code extension that allows users to quickly DELETE comments,  empty lines,  print statements,`
-`     and console logs of a selected area or entire file.`
+`This extension empowers users to efficiently remove comments, empty lines, print statements, and console logs from selected areas or entire files. With "Code Cleaner," developers can maintain cleaner, more concise, and production-ready code with ease.`
 #   `DEMO`
 - Delete empty lines
 <img src="https://github.com/chrisreylo73/chrisreylo73/assets/72224622/3d9229ce-ba00-407e-ac55-fa4188c51500" width="600" height="600" alt="CODE_SWEEP_1_DEMO">
@@ -275,7 +326,7 @@
 - Delete print statements
 <img src="https://github.com/chrisreylo73/chrisreylo73/assets/72224622/403b3a31-967d-46a0-8009-1256e3ad0896" width="600" height="600" alt="CODE_SWEEP_1_DEMO">
 
-#   `TOOLS`
+#   `TECH STACK`
 - TypeScript
 #   `LINKS`
 - [Link to Repository](https://github.com/chrisreylo73/Code-Sweep-VSC-EXT)
@@ -311,7 +362,7 @@
 #   `DEMO`
 <img src="https://github.com/chrisreylo73/chrisreylo73/assets/72224622/a006063d-481a-4fb5-a54c-f1c736e6f97e" width="600" height="450" alt="CODE_SWEEP_1_DEMO">
 
-#   `TOOLS`
+#   `TECH STACK`
 - JavaScript
 - HTML & CSS
 #   `LINKS`
@@ -346,7 +397,7 @@
 - Using hotkey ctrl + 3
 ![GIMME_OUPTUT_2_DEMO](https://github.com/chrisreylo73/chrisreylo73/assets/72224622/e2b3802f-82da-4fcd-82a2-b2e23ee30022)
 
-#   `TOOLS`
+#   `TECH STACK`
 - TypeScript
 
 #   `LINKS`
